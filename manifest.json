@@ -4,7 +4,7 @@
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "browser",
-  "Scope": "/",
+  "Scope": "https://anandsuthar.github.io/#/",
   "start_url": "https://anandsuthar.github.io/#/",
   "icons": [
     {
