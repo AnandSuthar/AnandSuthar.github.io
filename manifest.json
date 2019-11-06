@@ -4,8 +4,8 @@
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "browser",
-  "Scope": "https://anandsuthar.github.io",
-  "start_url": "https://anandsuthar.github.io",
+  "Scope": "http://google.com/",
+  "start_url": "http://google.com/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
