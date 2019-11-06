@@ -8,4 +8,13 @@
 <body>
   <script src="main.dart.js" type="application/javascript"></script>
 </body>
+
+<script>
+    if('serviceWorker' in navigator) {
+        navigator.serviceWorker
+        .register('/sw.js')
+        .then(function() { console.log("Service Worker Registered"); });
+    }
+</script>
+
 </html>
