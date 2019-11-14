@@ -2,8 +2,19 @@ import 'package:flutter/material.dart';
 import 'package:pwa/client.dart';
 import 'package:pwa/worker.dart';
 
+//1. flutter pub get
+//2. flutter pub run pwa
+//3. flutter packages pub global run webdev build
+//4. flutter run -d chrome
 
-void main() => runApp(MyApp());
+
+
+void main() {
+  new Client();
+  return runApp(MyApp());
+}
+
+//void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
