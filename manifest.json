@@ -1,8 +1,8 @@
 {
-  "name": "Flutterdemo",
-  "short_name": "F demo",
-  "theme_color": "#2196f3",
-  "background_color": "#2196f3",
+  "name": "AJIO",
+  "short_name": "AJIO",
+  "theme_color": "#2f4254",
+  "background_color": "#2f4254",
   "display": "standalone",
   "Scope": "https://anandsuthar.github.io/",
   "start_url": "/index.html",
