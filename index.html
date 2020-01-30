@@ -2,19 +2,9 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>test_pwa</title>
-  <link rel="manifest" href="/manifest.json">
+  <title>ajio</title>
 </head>
 <body>
   <script src="main.dart.js" type="application/javascript"></script>
 </body>
-
-<script>
-    if('serviceWorker' in navigator) {
-        navigator.serviceWorker
-        .register('/sw.js')
-        .then(function() { console.log("Service Worker Registered"); });
-    }
-</script>
-
 </html>
