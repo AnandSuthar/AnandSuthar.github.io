@@ -1,11 +1,11 @@
 {
   "name": "Flutterdemo",
-  "short_name": "flutter demo",
+  "short_name": "F demo",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
-  "display": "browser",
-  "Scope": "https://anandsuthar.github.io",
-  "start_url": "https://anandsuthar.github.io",
+  "display": "standalone",
+  "Scope": "https://anandsuthar.github.io/",
+  "start_url": "/index.html",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
